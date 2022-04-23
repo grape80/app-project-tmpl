@@ -1,2 +1,2 @@
 # project-tmpl
-This repository is a project template for software development.
+This repository is a project template for application development.
